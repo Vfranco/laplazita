@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/laplazita",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
