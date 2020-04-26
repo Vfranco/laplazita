@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+.img-logo-plazita {
+    width: 100% !important;
+    margin: 10px auto;
+}
+
+.center-contact {
+    display: flex;
+    justify-content: center;
+}
+
+.mt-20 {
+    margin-top: 100px;
+}
+
+.footer-message {
+    font-size: 3rem !important;
+}
