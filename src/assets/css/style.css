@@ -639,6 +639,7 @@ END Achivement Area
     height: 546px;
     z-index: 111;
     transform: translateX(-50%);
+    top: 282px;
 }
 
 .screen-slider {
