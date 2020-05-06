@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-64.285714"
+     inkscape:cx="-528.57143"
      inkscape:cy="560"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
-     inkscape:window-width="1857"
+     inkscape:window-width="1858"
      inkscape:window-height="1057"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
@@ -54,22 +54,33 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-67)">
-    <path
-       style="fill:#417d19;fill-opacity:1;stroke:none;stroke-width:0.60839653;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 114.70888,70.406918 A 111.82397,111.82397 0 0 0 2.8848146,182.23099 111.82397,111.82397 0 0 0 114.70888,294.05505 111.82397,111.82397 0 0 0 226.53237,182.23099 111.82397,111.82397 0 0 0 114.70888,70.406918 Z m 0,22.038367 a 89.785441,89.785441 0 0 1 89.78514,89.785705 89.785441,89.785441 0 0 1 -89.78514,89.7857 89.785441,89.785441 0 0 1 -89.785707,-89.7857 89.785441,89.785441 0 0 1 89.785707,-89.785705 z"
-       id="path14"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g826"
+       transform="matrix(1.0067602,0,0,1.0101403,315.75106,12.50201)">
+      <path
+         style="fill:#417d19;fill-opacity:1;stroke:none;stroke-width:0.60839653;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -199.76731,56.799775 A 111.82397,111.82397 0 0 0 -311.59138,168.62385 111.82397,111.82397 0 0 0 -199.76731,280.44791 111.82397,111.82397 0 0 0 -87.94382,168.62385 111.82397,111.82397 0 0 0 -199.76731,56.799775 Z m 0,22.038367 a 89.785441,89.785441 0 0 1 89.78514,89.785708 89.785441,89.785441 0 0 1 -89.78514,89.7857 89.785441,89.785441 0 0 1 -89.78571,-89.7857 89.785441,89.785441 0 0 1 89.78571,-89.785708 z"
+         id="path15"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         ry="92.591873"
+         rx="91.885811"
+         cy="168.85378"
+         cx="-199.94939"
+         id="path17"
+         style="fill:#417d19;fill-opacity:1;stroke:none;stroke-width:0.84566474;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.30558014px;line-height:1.25;font-family:'Tw Cen MT Condensed Extra Bold';-inkscape-font-specification:'Tw Cen MT Condensed Extra Bold, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#c24543;fill-opacity:1;stroke:none;stroke-width:0.54846656"
-       x="84.06749"
-       y="218.56328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:128.44429016px;line-height:1.25;font-family:'Tw Cen MT Condensed Extra Bold';-inkscape-font-specification:'Tw Cen MT Condensed Extra Bold, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66898072"
+       x="77.012276"
+       y="224.6109"
        id="text826"><tspan
          sodipodi:role="line"
          id="tspan824"
-         x="84.06749"
-         y="218.56328"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#c24543;fill-opacity:1;stroke-width:0.54846656">4</tspan></text>
+         x="77.012276"
+         y="224.6109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke-width:0.66898072">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
